@@ -72,7 +72,7 @@ VERIFICAÇêO  → O que precisa ser conferido?
 
 **IC-RAV** = **I**ntençêo · **C**ontexto · **R**esultado · **A**utonomia · **V**erificaçêo (critérios entram dentro de Resultado/Verificaçêo).
 
-Cada aula, projeto e prompt da linha é estruturado nesse esqueleto. Vira a marca metodológica do INEMA nessa área, combinando com o trabalho já em andamento de Engenharia de Intençêo + Contexto + Agentes.
+Cada aula, projeto e prompt da linha é estruturado nesse esqueleto. Vira a marca metodológica do ARCKHÉ nessa área, combinando com o trabalho já em andamento de Engenharia de Intençêo + Contexto + Agentes.
 
 ---
 
@@ -247,7 +247,7 @@ Resultado esperado: a pessoa deixa de perguntar *"Qual IA devo aprender?"* e pas
 ### Fase 2 — Curso-âncora (4–6 semanas)
 - [ ] **C1 — Do Prompt ao Software** em `/formato-curso-v5` (decisêo 2), alimentado pelos casos reais do desafio.
 - [ ] 8 módulos, cada módulo com 1 projeto da seçêo 6.
-- [ ] Publicar no portal (inema.club) via `/atualiza-portal`.
+- [ ] Publicar no portal (ARCKHÉ AI) via `/atualiza-portal`.
 
 ### Fase 3 — Computer Use (3–4 semanas)
 - [ ] **C2 — Agentes que Usam o Computador** aproveitando o Kit em `astra-auto/doc/`.
@@ -266,7 +266,7 @@ Resultado esperado: a pessoa deixa de perguntar *"Qual IA devo aprender?"* e pas
 | # | Decisêo | Escolha | Por quê |
 |---|---|---|---|
 | 1 | Nome da linha | **GESTOR DE AGENTES** é a linha; **Do Prompt ao Software** é o curso-âncora | "Software sob demanda" descreve a tecnologia, que muda; "gestor de agentes" descreve a competência, que fica |
-| 2 | Formato do curso-âncora | **`/formato-curso-v5`** (INEMA.PRO, público 40+ leigo) | O guia "como criar do zero" foi escrito para leigo; o curso tem que falar a mesma língua. Confirmar na hora de construir |
+| 2 | Formato do curso-âncora | **`/formato-curso-v5`** (ARCKHÉ.PRO, público 40+ leigo) | O guia "como criar do zero" foi escrito para leigo; o curso tem que falar a mesma língua. Confirmar na hora de construir |
 | 3 | Ferramenta de referência | **Neutra** — Astra, Claude Code, Codex e Gemini como intercambiáveis | A tese do vídeo é que a competência sobrevive ao modelo. Amarrar o curso a um modelo o faz vencer em meses |
 | 4 | Por onde começar | **Desafio 30 Agentes em 30 Dias** antes do curso C1 | Gera audiência, prova social e casos reais que viram material do curso. Custo de produçêo baixo |
 | 5 | B2B (C4 e C9) | **Consultoria / treinamento in-company**, nêo curso aberto | O valor está no diagnóstico da área específica (prompt 05). Curso aberto viria depois, feito dos casos |

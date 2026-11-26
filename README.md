@@ -7,7 +7,7 @@
 
 ### Software sob demanda com IA
 
-> Linha de formaêÂ§êÂ£o INEMA sobre como trabalhar quando software, agentes e automaêÂ§êÂµes passam a ser criados sob demanda.
+> Linha de formaêÂ§êÂ£o ARCKHÉ sobre como trabalhar quando software, agentes e automaêÂ§êÂµes passam a ser criados sob demanda.
 > A ferramenta muda. A competêÂªncia fica: **enxergar problema ê¢â â definir intenêÂ§êÂ£o ê¢â â dar contexto ê¢â â delegar ê¢â â acompanhar ê¢â â validar.**
 
 Pare de apenas usar ferramentas. Aprenda a mandar a IA **criar, operar e integrar** as ferramentas que vocêÂª precisa.

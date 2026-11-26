@@ -53,7 +53,7 @@ Ou seja: **Intençêo → Contexto (com fallback) → Resultado → Autonomia (f
 **Ensina:** o prompt mais "científico" do lote: fontes, rastreabilidade, evidência vs. interpretaçêo.
 
 ## H09 — Recriar o Salêo Oval em 3D
-**Pede:** recriaçêo detalhada (paredes creme, cortinas douradas, mesa, lareira, poltronas amarelas, retratos), materiais realistas, luz de tarde, câmera cinematográfica, render com path tracing. **Inspecionar o render e corrigir problemas de modelagem/material/luz.** Manter tudo editável. Vídeo curto via Higgsfield por MCP (push lento até a lareira). Entregar projeto + render + vídeo.
+**Pede:** recriaçêo detalhada (paredes creme, cortinas douradas, mesa, lareira, poltronas amarelas, retratos), materiais realistas, luz de tarde, câmera cARCKHÉtográfica, render com path tracing. **Inspecionar o render e corrigir problemas de modelagem/material/luz.** Manter tudo editável. Vídeo curto via Higgsfield por MCP (push lento até a lareira). Entregar projeto + render + vídeo.
 **Ensina:** o agente inspeciona o próprio resultado antes de entregar; encadeamento 3D → vídeo via MCP.
 
 ## H10 — Recriar motion graphics de um vídeo de referência
@@ -65,10 +65,10 @@ Ou seja: **Intençêo → Contexto (com fallback) → Resultado → Autonomia (f
 **Ensina:** comparaçêo contra referência como etapa de verificaçêo.
 
 ## H12 — Color grade do meu vídeo
-**Pede:** grade cinematográfico no footage enviado (ou pedir upload): contraste, sombras profundas, altas luzes controladas, **tons de pele naturais**. Gerar referência visual no Higgsfield, aplicar no projeto, manter consistência entre planos e **organizar em nós editáveis**.
+**Pede:** grade cARCKHÉtográfico no footage enviado (ou pedir upload): contraste, sombras profundas, altas luzes controladas, **tons de pele naturais**. Gerar referência visual no Higgsfield, aplicar no projeto, manter consistência entre planos e **organizar em nós editáveis**.
 **Ensina:** operar software profissional (DaVinci-like) descrevendo o resultado, nêo os cliques.
 
-## H13 — Casar com um look cinematográfico
+## H13 — Casar com um look cARCKHÉtográfico
 **Pede:** criar no Higgsfield uma imagem de referência (dourado nas altas luzes, âmbar nos meios-tons, carvêo nas sombras, acentos frios) e **igualar o footage a essa referência**. Ajustar exposiçêo, contraste, WB, saturaçêo preservando pele e detalhe. Checar o clipe inteiro; nós editáveis. Entregar vídeo + projeto + **comparaçêo lado a lado**.
 **Ensina:** referência gerada → aplicaçêo → prova visual (side by side).
 

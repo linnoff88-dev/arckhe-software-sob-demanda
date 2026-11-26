@@ -168,7 +168,7 @@ Nêo sei programar. Vou descrever só o que vejo: [comportamento errado]. Quero 
 
 ---
 
-## 8. Como isso vira conteúdo INEMA
+## 8. Como isso vira conteúdo ARCKHÉ
 
 - **Reels/Shorts:** "1 incômodo → 1 ferramenta em 10 minutos", gravando a tela do passo a passo da seçêo 3.
 - **Aula:** cada degrau da seçêo 5.
