@@ -2,10 +2,10 @@
 
 **Quando usar:** você tem um problema real e quer que a IA decida se cria software, opera software existente, pesquisa, processa documentos ou monta agentes — e entregue um protótipo funcional.
 
-**IC-RAV:** Intenção (problema + resultado) · Contexto (usuário, dados, sistemas) · Resultado (protótipo + instruções) · Autonomia (10 passos, sem features supérfluas) · Verificação (passos 7–9).
+**IC-RAV:** Intençêo (problema + resultado) · Contexto (usuário, dados, sistemas) · Resultado (protótipo + instruções) · Autonomia (10 passos, sem features supérfluas) · Verificaçêo (passos 7–9).
 
 ```text
-Você atuará como arquiteto de solução, desenvolvedor e agente executor.
+Você atuará como arquiteto de soluçêo, desenvolvedor e agente executor.
 
 MEU PROBLEMA:
 [descreva o problema]
@@ -34,14 +34,14 @@ Depois:
    - processar documentos;
    - criar agentes;
    - integrar sistemas;
-5. proponha a solução mais simples possível;
+5. proponha a soluçêo mais simples possível;
 6. construa um protótipo funcional;
 7. teste os principais fluxos;
 8. identifique erros ou limitações;
 9. corrija;
-10. entregue instruções de utilização.
+10. entregue instruções de utilizaçêo.
 
-Não crie funcionalidades apenas porque são interessantes.
+Nêo crie funcionalidades apenas porque sêo interessantes.
 
 Priorize o resultado que preciso atingir.
 ```

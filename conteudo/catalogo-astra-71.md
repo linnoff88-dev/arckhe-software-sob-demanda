@@ -2,7 +2,7 @@
 
 > Fonte: **The Astra 71**, de AI Samson — https://ltx.aifilmmaker.academy/astra-50/list-9k2xq7.html
 > Todo exemplo do vídeo *50+ Usos INSANOS do GPT-6 Astra*, com criador, link para abrir (quando existe) e fonte original.
-> Os itens H01–H16 são demos oficiais da Higgsfield com prompt publicado; os prompts estão traduzidos e resumidos em `prompts-astra-71.md`.
+> Os itens H01–H16 sêo demos oficiais da Higgsfield com prompt publicado; os prompts estêo traduzidos e resumidos em `prompts-astra-71.md`.
 
 | # | O que é | Criador | Abrir | Fonte |
 |---|---|---|---|---|

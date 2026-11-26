@@ -1,11 +1,11 @@
-# Prompt — Identificar oportunidades de automação numa área da empresa
+# Prompt — Identificar oportunidades de automaçêo numa área da empresa
 
-**Quando usar:** treinamento empresarial e consultoria. Um único prompt gera a carteira de projetos de automação de uma área.
+**Quando usar:** treinamento empresarial e consultoria. Um único prompt gera a carteira de projetos de automaçêo de uma área.
 
-**IC-RAV:** Intenção (mapear a área) · Contexto (descrição da área) · Resultado (tabela de oportunidades) · Autonomia (IA classifica e prioriza) · Verificação (escolha das 3 melhores para começar).
+**IC-RAV:** Intençêo (mapear a área) · Contexto (descriçêo da área) · Resultado (tabela de oportunidades) · Autonomia (IA classifica e prioriza) · Verificaçêo (escolha das 3 melhores para começar).
 
 ```text
-Atue como arquiteto de automação e agentes de IA.
+Atue como arquiteto de automaçêo e agentes de IA.
 
 Vou descrever uma área da empresa:
 
@@ -20,12 +20,12 @@ Procure:
 - pesquisa;
 - cópia de informações;
 - análise de documentos;
-- produção de relatórios;
-- geração de indicadores;
+- produçêo de relatórios;
+- geraçêo de indicadores;
 - acompanhamento de pendências;
-- comunicação repetitiva;
+- comunicaçêo repetitiva;
 - decisões baseadas em regras;
-- utilização manual de softwares.
+- utilizaçêo manual de softwares.
 
 Para cada oportunidade indique:
 
@@ -33,7 +33,7 @@ PROCESSO
 TEMPO CONSUMIDO
 DIFICULDADE
 RISCO
-POTENCIAL DE AUTOMAÇÃO
+POTENCIAL DE AUTOMAÇêO
 AGENTE NECESSÁRIO
 FERRAMENTAS NECESSÁRIAS
 GANHO ESPERADO

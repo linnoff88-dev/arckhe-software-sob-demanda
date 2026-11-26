@@ -1,6 +1,6 @@
 # DESAFIO: 30 AGENTES EM 30 DIAS
 
-> Todo dia você entrega um problema pequeno para um agente. Não precisa ser grande. Precisa ser **seu** e precisa **funcionar no fim do dia**.
+> Todo dia você entrega um problema pequeno para um agente. Nêo precisa ser grande. Precisa ser **seu** e precisa **funcionar no fim do dia**.
 >
 > No dia 1 você pergunta "qual IA devo aprender?". No dia 30 você pergunta **"qual problema vou entregar para um agente hoje?"**.
 
@@ -11,14 +11,14 @@
 | **Tempo** | 30 a 60 minutos por dia. Se passar disso, o escopo estava grande demais. |
 | **Entrega** | Algo que abre e funciona: uma página, uma planilha atualizada, um relatório, uma tarefa executada. |
 | **Ferramenta** | Qualquer uma. ChatGPT, Claude, Gemini, Claude Code, Codex. Os dias marcados 🖥️ pedem um agente que use o computador. |
-| **Formato padrão** | Um único arquivo HTML, salvo no seu computador. Ver `../conteudo/como-criar-do-zero.md`. |
+| **Formato padrêo** | Um único arquivo HTML, salvo no seu computador. Ver `../conteudo/como-criar-do-zero.md`. |
 | **Prova** | Print ou tela gravada do resultado funcionando. É isso que você posta. |
-| **Regra de ouro** | Se você não conseguir **conferir** que está certo, não conta como entregue. |
+| **Regra de ouro** | Se você nêo conseguir **conferir** que está certo, nêo conta como entregue. |
 
 Todo dia usa o mesmo esqueleto (IC-RAV, em `../metodo/IC-RAV.md`):
 
 ```
-INTENÇÃO · CONTEXTO · RESULTADO · AUTONOMIA · VERIFICAÇÃO
+INTENÇêO · CONTEXTO · RESULTADO · AUTONOMIA · VERIFICAÇêO
 ```
 
 ---
@@ -30,22 +30,22 @@ Objetivo da semana: descobrir que dá para ter software feito sob medida.
 | Dia | Problema | Você entrega | Como conferir |
 |---|---|---|---|
 | 1 | **Organizar documentos** | Página que lista seus arquivos por tipo/assunto e sugere onde arquivar | Rodar em 20 arquivos reais e discordar de no máximo 3 |
-| 2 | **Pesquisa que vira página** | Uma decisão pequena pesquisada, com fontes e comparativo | Todo dado tem link clicável que confirma o número |
+| 2 | **Pesquisa que vira página** | Uma decisêo pequena pesquisada, com fontes e comparativo | Todo dado tem link clicável que confirma o número |
 | 3 | **Formulário chato** | Formulário que você preenche toda semana, agora com preenchimento assistido | Preencher um de verdade e submeter |
-| 4 | **Dashboard** | Painel de um número que você acompanha (gasto, peso, vendas, horas) | Lançar 5 registros e o gráfico bater com a conta na mão |
-| 5 | **Indicadores** | Pegar dados soltos e virar 3 indicadores com explicação em português | Conferir 1 indicador na calculadora |
+| 4 | **Dashboard** | Painel de um número que você acompanha (gasto, peso, vendas, horas) | Lançar 5 registros e o gráfico bater com a conta na mêo |
+| 5 | **Indicadores** | Pegar dados soltos e virar 3 indicadores com explicaçêo em português | Conferir 1 indicador na calculadora |
 | 6 | **Comparar fornecedores** | Tabela com critérios, pesos e nota final ajustável | Mudar um peso e a ordem mudar de forma que faz sentido |
 | 7 | **Sua agenda** | Página que lê sua semana e aponta conflitos e buracos | Comparar com a agenda real do celular |
 
 **Prompt-base da semana:**
 ```text
-Quero uma ferramenta pessoal, não uma resposta em texto.
-INTENÇÃO: [o incômodo de hoje]
-CONTEXTO: [quem usa, que dados tenho, onde estão]
+Quero uma ferramenta pessoal, nêo uma resposta em texto.
+INTENÇêO: [o incômodo de hoje]
+CONTEXTO: [quem usa, que dados tenho, onde estêo]
 RESULTADO: [o que deve existir no fim e como saberei que ficou bom]
 Entregue como UM ÚNICO arquivo HTML, com CSS e JavaScript dentro, sem
 dependências externas, funcionando offline, guardando dados no navegador.
-Não invente funcionalidades além do que pedi.
+Nêo invente funcionalidades além do que pedi.
 ```
 
 ---
@@ -68,12 +68,12 @@ Objetivo da semana: parar de fazer os cliques.
 ```text
 Objetivo: [o que precisa acontecer].
 Faça o passo a passo no navegador/no programa.
-Antes de qualquer ação que SALVE, ENVIE, APAGUE ou PAGUE, pare e me
+Antes de qualquer açêo que SALVE, ENVIE, APAGUE ou PAGUE, pare e me
 mostre exatamente o que vai fazer, e espere eu confirmar.
-No fim, entregue: o que foi feito, o que não conseguiu, e onde ficou em dúvida.
+No fim, entregue: o que foi feito, o que nêo conseguiu, e onde ficou em dúvida.
 ```
 
-> ⚠️ Semana da supervisão. Em benchmark de uso de computador o estado da arte acerta cerca de 3 em 4 tarefas. O "pare antes de salvar" não é frescura, é o que torna isso utilizável.
+> ⚠️ Semana da supervisêo. Em benchmark de uso de computador o estado da arte acerta cerca de 3 em 4 tarefas. O "pare antes de salvar" nêo é frescura, é o que torna isso utilizável.
 
 ---
 
@@ -83,18 +83,18 @@ Objetivo da semana: sair do pessoal e entrar no profissional.
 
 | Dia | Problema | Você entrega | Como conferir |
 |---|---|---|---|
-| 15 | **Reunião → decisões** | Transcrição vira decisões, responsáveis e prazos | Mandar para quem estava lá e ninguém corrigir |
+| 15 | **Reuniêo → decisões** | Transcriçêo vira decisões, responsáveis e prazos | Mandar para quem estava lá e ninguém corrigir |
 | 16 | **Pendências** | Painel do que está parado, há quanto tempo e com quem | Achar 1 pendência que você tinha esquecido |
 | 17 | **Proposta comercial** | Lead pesquisado vira proposta rascunhada | Você mandaria essa proposta? |
-| 18 | **Segurança / qualidade** | Registros de incidente viram riscos + ações + responsáveis | Um responsável real concordar com a ação |
-| 19 | **Simulador de decisão** | Uma decisão difícil com variáveis que você pode mexer | Mexer numa variável e o resultado virar |
+| 18 | **Segurança / qualidade** | Registros de incidente viram riscos + ações + responsáveis | Um responsável real concordar com a açêo |
+| 19 | **Simulador de decisêo** | Uma decisêo difícil com variáveis que você pode mexer | Mexer numa variável e o resultado virar |
 | 20 | **Um relatório que ninguém lê** | O mesmo relatório, agora como página que responde perguntas | Alguém abrir e achar o que queria em 30 segundos |
-| 21 | **Refaça só a parte que você usa** | Substituir 1 função de um software caro pelo seu caso específico | Rodar com dados reais e bater com o software original |
+| 21 | **Refaça só a parte que você usa** | Substituir 1 funçêo de um software caro pelo seu caso específico | Rodar com dados reais e bater com o software original |
 
 **Prompt-base da semana (o do dia 21 é o mais forte do desafio):**
 ```text
-Uso o software [X] só para uma coisa: [a função].
-Meus dados são assim: [formato/exemplo].
+Uso o software [X] só para uma coisa: [a funçêo].
+Meus dados sêo assim: [formato/exemplo].
 Construa uma ferramenta que faça exatamente essa parte, para o meu caso,
 e mais nada. Depois rode com os dados de exemplo, compare com o resultado
 que o software original me dá, e me diga onde diverge.
@@ -109,7 +109,7 @@ Objetivo da semana: parar de operar e começar a gerir.
 | Dia | Problema | Você entrega | Como conferir |
 |---|---|---|---|
 | 22 | **Agente que se testa** | Agente constrói algo, usa, acha os próprios erros e corrige | Ele achou pelo menos 1 erro sozinho |
-| 23 | **Aba "coach"** | Sua ferramenta do dia 4 ganha uma aba onde a IA comenta seu uso | Ele apontar algo que você não tinha visto |
+| 23 | **Aba "coach"** | Sua ferramenta do dia 4 ganha uma aba onde a IA comenta seu uso | Ele apontar algo que você nêo tinha visto |
 | 24 | **Dois agentes** | Um faz, outro confere e reprova | O revisor reprovou pelo menos uma vez |
 | 25 | **Rotina automática** | Algo que roda toda segunda sem você pedir | Chegar na segunda e estar feito |
 | 26 | **Diagnóstico de uma área** | Rodar o prompt 05 na sua área e listar oportunidades | As 3 escolhidas fazem sentido para quem trabalha lá |

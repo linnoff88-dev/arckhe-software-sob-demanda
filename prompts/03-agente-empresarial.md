@@ -1,8 +1,8 @@
-# Prompt — Agente empresarial (automação supervisionada)
+# Prompt — Agente empresarial (automaçêo supervisionada)
 
-**Quando usar:** automatizar um processo de empresa. Força a divisão entre o que a IA faz sozinha, o que precisa de ferramenta/computador/dados e o que exige aprovação humana.
+**Quando usar:** automatizar um processo de empresa. Força a divisêo entre o que a IA faz sozinha, o que precisa de ferramenta/computador/dados e o que exige aprovaçêo humana.
 
-**IC-RAV:** Intenção (processo) · Contexto (divisão de tarefas) · Resultado (fluxo) · Autonomia (explícita por tarefa) · Verificação (etapa própria + aprovação humana em risco).
+**IC-RAV:** Intençêo (processo) · Contexto (divisêo de tarefas) · Resultado (fluxo) · Autonomia (explícita por tarefa) · Verificaçêo (etapa própria + aprovaçêo humana em risco).
 
 ```text
 OBJETIVO:
@@ -16,7 +16,7 @@ Analise o processo e divida-o em:
 - tarefas que exigem ferramentas;
 - tarefas que exigem acesso ao computador;
 - tarefas que exigem dados;
-- tarefas que precisam de aprovação humana.
+- tarefas que precisam de aprovaçêo humana.
 
 Depois construa o fluxo:
 
@@ -24,16 +24,16 @@ ENTRADA
 ↓
 ANÁLISE
 ↓
-DECISÃO
+DECISêO
 ↓
-AÇÃO
+AÇêO
 ↓
-VERIFICAÇÃO
+VERIFICAÇêO
 ↓
-APROVAÇÃO HUMANA quando necessária
+APROVAÇêO HUMANA quando necessária
 ↓
 REGISTRO DO RESULTADO
 
-Sempre prefira automação supervisionada a automação sem controle
+Sempre prefira automaçêo supervisionada a automaçêo sem controle
 em operações de maior risco.
 ```
